@@ -9,6 +9,3 @@ namespace MoviesAPI.Data
         public DbSet<Movie> Movies { get; set; }
     }
 }
-
-
-
