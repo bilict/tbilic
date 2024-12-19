@@ -7,5 +7,4 @@ namespace MoviesAPI.Data
         public int Year { get; set; }
         public string Genre { get; set; }
     }
-
 }
