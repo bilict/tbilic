@@ -44,6 +44,3 @@ namespace MoviesAPI.Services
         }
     }
 }
-
-
-
